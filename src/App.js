@@ -28,7 +28,7 @@ const App = () => {
             <Sidebar />
 
             <div className="mt-12 bg-gray-900 shadow text-white p-2 mx-auto w-36 rounded">
-              <a href="https://github.com/rutikwankhade/devspace" target="_blank" rel="noreferrer" className="flex">
+              <a href="https://github.com/uvacoder/devspace-abc" target="_blank" rel="noreferrer" className="flex">
                 <span className="text-sm font-semibold">
                   ⭐ Star on Github
                 </span>
